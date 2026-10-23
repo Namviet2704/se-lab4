@@ -1,0 +1,3 @@
+# TC6: both stores empty -> nothing can be fired
+GT4500,0,0,0,0
+TORPEDO,SINGLE

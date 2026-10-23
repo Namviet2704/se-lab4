@@ -1,0 +1,3 @@
+# TC4: primary empty on first shot -> secondary is fired
+GT4500,0,0,10,0
+TORPEDO,SINGLE

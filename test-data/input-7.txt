@@ -1,3 +1,2 @@
-# TC7: primary reports failure -> secondary must NOT be tried
 GT4500,10,1,10,0
 TORPEDO,SINGLE

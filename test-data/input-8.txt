@@ -1,4 +1,3 @@
-# TC8: ALL fires both stores (1 torpedo each -> both empty afterwards)
 GT4500,1,0,1,0
 TORPEDO,ALL
 TORPEDO,SINGLE

@@ -1,4 +1,3 @@
-# TC11: SINGLE, primary fired last, secondary empty and primary now empty too -> nothing fired
 GT4500,1,0,0,0
 TORPEDO,SINGLE
 TORPEDO,SINGLE

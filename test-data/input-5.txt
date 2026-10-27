@@ -1,4 +1,3 @@
-# TC5: secondary empty when it is next in line -> primary is fired again
 GT4500,10,0,0,0
 TORPEDO,SINGLE
 TORPEDO,SINGLE

@@ -1,4 +1,4 @@
-SUCCESS  # <- GT4500
-SUCCESS  # <- primary
-FAIL     # <- secondary
-SUCCESS  # <- primary again
+SUCCESS
+SUCCESS
+FAIL
+SUCCESS

@@ -1,3 +1,2 @@
-# TC10: ALL, both stores fail -> no torpedo fired
 GT4500,10,1,10,1
 TORPEDO,ALL

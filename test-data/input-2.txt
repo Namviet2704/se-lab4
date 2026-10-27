@@ -1,4 +1,3 @@
-# TC2: SINGLE shots alternate: 2nd shot uses the secondary store (secondary always fails)
 GT4500,10,0,10,1
 TORPEDO,SINGLE
 TORPEDO,SINGLE

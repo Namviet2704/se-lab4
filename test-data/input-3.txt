@@ -1,4 +1,3 @@
-# TC3: alternation continues: primary, secondary, primary (secondary always fails)
 GT4500,10,0,10,1
 TORPEDO,SINGLE
 TORPEDO,SINGLE
